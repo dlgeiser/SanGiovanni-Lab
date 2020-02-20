@@ -12,14 +12,16 @@ Let the science begin!
 ### About Us
 
 **Dr. John Paul SanGiovanni**  
-![Dr. John Paul SanGiovanni](https://bio5.org/sites/default/files/styles/profile_image/public/JohnPaulSanGiovanni_profile_11857013.jpg?itok=kYcEBFJ3 "Dr. John Paul SanGiovanni")  
+<img src="https://bio5.org/sites/default/files/styles/profile_image/public/JohnPaulSanGiovanni_profile_11857013.jpg?itok=kYcEBFJ3" alt="Dr. John Paul SanGiovanni"
+	title="Dr. John Paul SanGiovanni" width="175" height="250" />  
 [University of Arizona](https://nutrition.cals.arizona.edu/person/john-paul-sangiovanni-scd)  
 [BIO5](https://bio5.org/people/john-paul-sangiovanni)  
 [Publications](https://scholar.google.com/citations?hl=en&user=sjEmfAUAAAAJ)    
 Contact: <jpsangio@email.arizona.edu>  
 
 **Dr. Dawn Geiser**  
-![Dr. Dawn Geiser](https://avatars2.githubusercontent.com/u/16979927?s=460&v=4 "Dr. Dawn Geiser")  
+<img src="https://avatars2.githubusercontent.com/u/16979927?s=460&v=4" alt="Dr. Dawn Geiser"
+	title="Dr. Dawn Geiser" width="150" height="150" />  
 [LinkedIn](https://www.linkedin.com/in/dawn-geiser-phd-97272318/)    
 [Publications](https://www.ncbi.nlm.nih.gov/myncbi/1DYWigGY0WS5p/bibliography/public/)    
 Contact: <dlgeiser@email.arizona.edu>
