@@ -16,7 +16,6 @@ Let the science begin!
 [BIO5](https://bio5.org/people/john-paul-sangiovanni)  
 [Publications](https://scholar.google.com/citations?hl=en&user=sjEmfAUAAAAJ)    
 Contact: <jpsangio@email.arizona.edu>  
-[Google](https://google.com" target="_blank)
 
 **Dr. Dawn Geiser**  
 [LinkedIn](https://www.linkedin.com/in/dawn-geiser-phd-97272318/)    
