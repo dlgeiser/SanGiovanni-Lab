@@ -1,6 +1,11 @@
 ## Welcome to the SanGiovanni Lab
 
-You can use the [editor on GitHub](https://github.com/dlgeiser/Onboarding/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are excited that you have chosen our lab to gain research experience. Our expectations are the following:
+
+-Willingness to learn
+-Embrace challenges
+-Be trustworthy and loyal
+-Attention to detail
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
