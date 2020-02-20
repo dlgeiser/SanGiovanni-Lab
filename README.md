@@ -2,10 +2,10 @@
 
 We are excited that you have chosen our lab to gain research experience. Our expectations are the following:
 
--Willingness to learn
--Embrace challenges
--Be trustworthy and loyal
--Attention to detail
+- Willingness to learn
+- Embrace challenges
+- Be trustworthy and loyal
+- Attention to detail
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
