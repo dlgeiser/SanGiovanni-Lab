@@ -7,14 +7,20 @@ We are excited that you have chosen our lab to gain research experience. Our exp
 - Be trustworthy and loyal
 - Attention to detail
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Let the science begin!
 
-### Markdown
+### About Us
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Dr. John Paul SanGiovanni**
+[University of Arizona](https://nutrition.cals.arizona.edu/person/john-paul-sangiovanni-scd)
+[BIO5](https://bio5.org/people/john-paul-sangiovanni)
+[Publications](https://scholar.google.com/citations?hl=en&user=sjEmfAUAAAAJ)
+[Contact](jpsangio@email.arizona.edu)
 
-```markdown
-Syntax highlighted code block
+**Dr. Dawn Geiser**
+[LinkedIn](https://www.linkedin.com/in/dawn-geiser-phd-97272318/)
+[Publications](https://www.ncbi.nlm.nih.gov/myncbi/1DYWigGY0WS5p/bibliography/public/)
+[Contact](dlgeiser@email.arizona.edu)
 
 # Header 1
 ## Header 2
