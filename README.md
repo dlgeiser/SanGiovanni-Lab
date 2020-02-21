@@ -9,7 +9,7 @@ We are excited that you have chosen our lab to gain research experience. Our exp
 
 Let the science begin!
 
-### [About](About.md)
+### [About](https://github.com/dlgeiser/Onboarding/About.md)
 
 **Dr. John Paul SanGiovanni**  
 <img src="https://bio5.org/sites/default/files/styles/profile_image/public/JohnPaulSanGiovanni_profile_11857013.jpg?itok=kYcEBFJ3" alt="Dr. John Paul SanGiovanni"
