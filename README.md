@@ -1,5 +1,6 @@
 README.md  
-# Onboarding  
+# SanGiovanni Lab
+
 Onboarding documentation for new lab members
 
 LICENSE  
