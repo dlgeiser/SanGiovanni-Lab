@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td><a href="https://scholar.google.com/citations?hl=en&user=sjEmfAUAAAAJ">Publications</a></td>
-    <td>Contact: dlgeiser@email.arizona.edu</td>
+    <td>Contact: <a href="mailto:dlgeiser@email.arizona.edu">dlgeiser@email.arizona.edu</a></td>
   </tr>
   <tr>
     <td>Contact: jpsangio@email.arizona.edu</td>
