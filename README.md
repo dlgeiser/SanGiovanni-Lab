@@ -1,9 +1,12 @@
+**Work In Progress**  
+
 README.md  
-# SanGiovanni Lab
+
+# 1. First, create a new repo for a GitHub page with
+
+## SanGiovanni Lab
 
 Onboarding documentation for new lab members
-
-**Work In Progress**
 
 LICENSE  
 GNU GENERAL PUBLIC LICENSE
@@ -680,3 +683,5 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+Needed to chose a theme that was responsive so that
