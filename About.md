@@ -23,7 +23,7 @@
         <th>Contact: <a href="mailto:dlgeiser@email.arizona.edu">dlgeiser@email.arizona.edu</a></th>
       </tr>
       <tr>
-        <th>Contact: <a href="jpsangio@email.arizona.edu">jpsangio@email.arizona.edu</a></th>
+        <th>Contact: <a href="mailto:jpsangio@email.arizona.edu">jpsangio@email.arizona.edu</a></th>
         <th></th>
       </tr>
     </table>
