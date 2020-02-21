@@ -1,4 +1,4 @@
-## Research Mission  
+## Research Mission  <a title="National Eye Institute / Public domain" href="https://commons.wikimedia.org/wiki/File:Eye_with_labels.jpg"><img width="256" alt="Eye with labels" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Eye_with_labels.jpg" align="right"></a>  
 
 The aims of our efforts are to elucidate the science of nutrient-responsive sensing and signaling processes in human systems and to rationally apply this knowledge in development of effective interventions. We apply three approaches in these endeavors; namely:  
 1. Integrative omics to:  
