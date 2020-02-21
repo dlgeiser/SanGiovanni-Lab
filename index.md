@@ -1,11 +1,16 @@
 ## Welcome to the SanGiovanni Lab
 
-We are excited that you have chosen our lab to gain research experience. Our expectations are the following:
+We are excited that you have chosen us and we look forward to collaborating with you. Our expectations are that you are/will/have:
 
-- Willingness to learn
+<right><a title="National Eye Institute / Public domain" href="https://commons.wikimedia.org/wiki/File:Eye_with_labels.jpg"><img width="256" alt="Eye with labels" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Eye_with_labels.jpg"></a></right>  
+
+- Willing to learn
 - Embrace challenges
-- Be trustworthy and loyal
+- Fearless
+- Trustworthy and loyal
+- Respectful
 - Attention to detail
+- Great attitude
 
 Let the science begin!
 
