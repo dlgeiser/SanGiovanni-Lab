@@ -11,4 +11,4 @@ Let the science begin!
 
 ### [About Us](https://github.com/dlgeiser/Onboarding/blob/master/About.md)  
 
-### [Research Mission](https://github.com/dlgeiser/Onboarding/blob/master/subfolder/Mission.md)
+### [Research Mission](https://github.com/dlgeiser/Onboarding/blob/master/Mission.md)
