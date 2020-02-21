@@ -1,6 +1,6 @@
 ## About Us
 
-<center>
+<middle>
     <table>
       <tr>
         <th>Dr. John Paul SanGiovanni</th>
@@ -27,6 +27,6 @@
         <th></th>
       </tr>
     </table>
-</center>
+</middle>
 
 ### [Home](https://dlgeiser.github.io/SanGiovanni-Lab) | [Research Mission](https://dlgeiser.github.io/SanGiovanni-Lab/Mission) | [Resources](https://dlgeiser.github.io/SanGiovanni-Lab/Resources) 
