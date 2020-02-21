@@ -9,4 +9,4 @@ We are excited that you have chosen our lab to gain research experience. Our exp
 
 Let the science begin!
 
-### [About Us](https://dlgeiser.github.io/SanGiovanni-Lab/About) | [Research Mission](https://dlgeiser.github.io/SanGiovanni-Lab/Mission)
+### [About Us](https://dlgeiser.github.io/SanGiovanni-Lab/About) | [Research Mission](https://dlgeiser.github.io/SanGiovanni-Lab/Mission) | [Resources](https://dlgeiser.github.io/SanGiovanni-Lab/Resources)
