@@ -7,4 +7,6 @@ The aims of our efforts are to elucidate the science of nutrient-responsive sens
 2. Physiological optics to characterize in vivo human response to nutrient intake (tissue status change and retinal/visual function)  
 3. Ultra-structural/membrane/organoid biophysics to identify modifiable ('druggable') mechanisms and rate-limiting steps of nutrient sensing and signaling in human retina and brain  
 
-### [Home](https://dlgeiser.github.io/SanGiovanni-Lab) | [About Us](https://dlgeiser.github.io/SanGiovanni-Lab/About) | [Resources](https://dlgeiser.github.io/SanGiovanni-Lab/Resources) 
+### [Home](https://dlgeiser.github.io/SanGiovanni-Lab) | [About Us](https://dlgeiser.github.io/SanGiovanni-Lab/About) | [Resources](https://dlgeiser.github.io/SanGiovanni-Lab/Resources)  
+
+
