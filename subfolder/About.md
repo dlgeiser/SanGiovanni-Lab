@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## About Us
 
 **Dr. John Paul SanGiovanni**  
