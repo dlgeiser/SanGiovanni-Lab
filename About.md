@@ -1,6 +1,6 @@
 ## About Us
 
-<table>
+<th><table>
   <tr>
     <th>Dr. John Paul SanGiovanni</th>
     <th>Dr. Dawn Geiser</th>
@@ -25,4 +25,4 @@
     <th>Contact: <a href="jpsangio@email.arizona.edu">jpsangio@email.arizona.edu</a></th>
     <th></th>
   </tr>
-</table>
+</table></th>
