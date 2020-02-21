@@ -3,6 +3,8 @@ README.md
 
 Onboarding documentation for new lab members
 
+**Work In Progress**
+
 LICENSE  
 GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
