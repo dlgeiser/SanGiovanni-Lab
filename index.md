@@ -9,6 +9,6 @@ We are excited that you have chosen our lab to gain research experience. Our exp
 
 Let the science begin!
 
-### [About Us](https://github.com/dlgeiser/Onboarding/blob/master/About.md)  
+### [About Us](https://github.com/dlgeiser/Onboarding/blob/master/About)  
 
-### [Research Mission](https://github.com/dlgeiser/Onboarding/blob/master/Mission.md)
+### [Research Mission](https://github.com/dlgeiser/Onboarding/blob/master/Mission)
