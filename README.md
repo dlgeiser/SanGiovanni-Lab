@@ -14,6 +14,7 @@ Let the science begin!
 **Dr. John Paul SanGiovanni**  
 <img src="https://bio5.org/sites/default/files/styles/profile_image/public/JohnPaulSanGiovanni_profile_11857013.jpg?itok=kYcEBFJ3" alt="Dr. John Paul SanGiovanni"
 	title="Dr. John Paul SanGiovanni" width="175" height="250" />  
+<a href="https://nutrition.cals.arizona.edu/person/john-paul-sangiovanni-scd" target="_blank">University of Arizona</a>  
 [University of Arizona](https://nutrition.cals.arizona.edu/person/john-paul-sangiovanni-scd)  
 [BIO5](https://bio5.org/people/john-paul-sangiovanni)  
 [Publications](https://scholar.google.com/citations?hl=en&user=sjEmfAUAAAAJ)    
