@@ -1,4 +1,4 @@
-## Resources
+## Resources  <a title="Benjah-bmm27 / Public domain" href="https://commons.wikimedia.org/wiki/File:Docosahexaenoic-acid-3D-sf.png"><img width="128" alt="Docosahexaenoic-acid-3D-sf" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Docosahexaenoic-acid-3D-sf.png/128px-Docosahexaenoic-acid-3D-sf.png" align="right"></a>
 
 Descriptions and links to our preferred resources:
 
@@ -37,4 +37,5 @@ Pharos is the user interface to the Knowledge Management Center (KMC) for the Il
 
 The Pharos interface provides facile access to all data types collected by the KMC. Given the complexity of the data surrounding any target, efficient and intuitive visualization has been a high priority, to enable users to quickly navigate & summarize search results and rapidly identify patterns. A critical feature of the interface is the ability to perform flexible search and subsequent drill down of search results. Underlying the interface is a RESTful API that provides programmatic access to all KMC data, allowing for easy consumption in user applications.  
 
+<a title="Jynto / CC0" href="https://commons.wikimedia.org/wiki/File:Zeaxanthin_molecule_spacefill.png"><img width="256" alt="Zeaxanthin molecule spacefill" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Zeaxanthin_molecule_spacefill.png/128px-Zeaxanthin_molecule_spacefill.png" align="right"></a>  
 ### [Home](https://dlgeiser.github.io/SanGiovanni-Lab) | [About Us](https://dlgeiser.github.io/SanGiovanni-Lab/About) | [Research Mission](https://dlgeiser.github.io/SanGiovanni-Lab/Mission)
