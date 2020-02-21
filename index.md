@@ -1,4 +1,4 @@
-### [About Us](https://github.com/dlgeiser/SanGiovanni-Lab/blob/master/About.md#about-us) | ### [Research Mission](https://github.com/dlgeiser/SanGiovanni-Lab/blob/master/Mission.md#research-mission)
+### [About Us](https://github.com/dlgeiser/SanGiovanni-Lab/blob/master/About.md#about-us) | [Research Mission](https://github.com/dlgeiser/SanGiovanni-Lab/blob/master/Mission.md#research-mission)
 
 ## Welcome to the SanGiovanni Lab
 
