@@ -1,4 +1,4 @@
-### <Research Mission style="font:blue;">  
+<font color="blue" size="6">Research Mission</font>   
 
 The aims of our efforts are to elucidate the science of nutrient-responsive sensing and signaling processes in human systems and to rationally apply this knowledge in development of effective interventions. We apply three approaches in these endeavors; namely:  
 1. Integrative omics to:  
