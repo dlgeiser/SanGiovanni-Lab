@@ -5,3 +5,7 @@ defaults:
       path: ""
     values:
       layout: default
+      
+echo '' >> _config.yml
+echo 'title: dlgeiser' >> _config.yml
+echo 'description: SanGiovanni Lab Blog' >> _config.yml
