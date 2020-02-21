@@ -26,27 +26,12 @@ Contact: <jpsangio@email.arizona.edu>
 <a href="https://www.ncbi.nlm.nih.gov/myncbi/1DYWigGY0WS5p/bibliography/public/" target="_blank">Publications</a>  
 Contact: <dlgeiser@email.arizona.edu>
 
-# Header 1
-## Header 2
-### Header 3
+## Research Mission
 
-- Bulleted
-- List
+The aims of our efforts are to elucidate the science of nutrient-responsive sensing and signaling processes in human systems and to rationally apply this knowledge in development of effective interventions. We apply three approaches in these endeavors; namely:  
+1. Integrative omics to:  
+   a) characterize | catalog structural chemistry and molecular dynamics of nutrient-responsive human systems (receptors, transporters, enzymes and hormones)  
+   b) determine functional implications of structural variation in elements of these systems  
+2. Physiological optics to characterize in vivo human response to nutrient intake (tissue status change and retinal | visual function)  
+3. Ultra-structural | membrane | organoid biophysics to identify modifiable ('druggable') mechanisms and rate-limiting steps of nutrient sensing | signaling in human retina and brain  
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dlgeiser/Onboarding/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
