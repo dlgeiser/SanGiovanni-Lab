@@ -17,6 +17,7 @@ The National Center for Advancing Translational Sciences (NCATS) has developed I
 - MARKETED DRUGS: 6,041
 - INVESTIGATIONAL DRUGS: 7,099
 - ALL SUBSTANCES: 107,353  
+
 NCATS Inxight: Drugs incorporates and unifies a wealth of data, including manually curated data supplied by the FDA and private companies, and provides marketing and regulatory status, rigorous drug ingredient definitions, biological activity, clinical use, and more.  
 
 **[LocusZoom](http://locuszoom.org/)**  
@@ -30,6 +31,7 @@ Pharos is the user interface to the Knowledge Management Center (KMC) for the Il
 - G-protein-coupled receptors (GPCRs)
 - ion channels (ICs)
 - kinases  
+
 The Pharos interface provides facile access to all data types collected by the KMC. Given the complexity of the data surrounding any target, efficient and intuitive visualization has been a high priority, to enable users to quickly navigate & summarize search results and rapidly identify patterns. A critical feature of the interface is the ability to perform flexible search and subsequent drill down of search results. Underlying the interface is a RESTful API that provides programmatic access to all KMC data, allowing for easy consumption in user applications.  
 
 ### [Home](https://dlgeiser.github.io/SanGiovanni-Lab) | [About Us](https://dlgeiser.github.io/SanGiovanni-Lab/About) | [Research Mission](https://dlgeiser.github.io/SanGiovanni-Lab/Mission)
