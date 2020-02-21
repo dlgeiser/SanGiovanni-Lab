@@ -1,7 +1,7 @@
 ## About Us
 
 <middle>
-    <table>
+    <table style="margin-left:auto;margin-right:auto;" align="middle">
       <tr>
         <th>Dr. John Paul SanGiovanni</th>
         <th>Dr. Dawn Geiser</th>
