@@ -2,7 +2,7 @@
 
 We are excited that you have chosen us and we look forward to collaborating with you. Our expectations are that you are/will/have:  
 
-<a title="National Eye Institute / Public domain" href="https://commons.wikimedia.org/wiki/File:Eye_with_labels.jpg"><img width="256" alt="Eye with labels" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Eye_with_labels.jpg" align="right"></a> 
+<a title="BruceBlaus / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)" href="https://commons.wikimedia.org/wiki/File:Macular_Degeneration.png"><img width="512" alt="Macular Degeneration" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Macular_Degeneration.png/512px-Macular_Degeneration.png" align="right"></a> 
 
 - Willing to learn
 - Embrace challenges
