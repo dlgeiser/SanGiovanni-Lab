@@ -8,6 +8,9 @@ bioRxiv (pronounced "bio-archive") is a free online archive and distribution ser
 <b><a href="https://www.ebi.ac.uk/chembl/" target="_blank">ChEMBL</a></b>  
 ChEMBL is a manually curated database of bioactive molecules with drug-like properties. It brings together chemical, bioactivity and genomic data to aid the translation of genomic information into effective new drugs.  
 
+<b><a href="https://cyverse.org/" target="_blank">CyVerse</a></b>  
+CyVerse provides life scientists with powerful computational infrastructure to handle huge datasets and complex analyses, thus enabling data-driven discovery. Our extensible platforms provide data storage, bioinformatics tools, image analyses, cloud services, APIs, and more.  
+
 <b><a href="https://pubs.broadinstitute.org/mammals/haploreg/haploreg.php" target="_blank">HaploReg</a></b>  
 HaploReg is a tool for exploring annotations of the noncoding genome at variants on haplotype blocks, such as candidate regulatory SNPs at disease-associated loci. Using LD information from the 1000 Genomes Project, linked SNPs and small indels can be visualized along with chromatin state and protein binding annotation from the Roadmap Epigenomics and ENCODE projects, sequence conservation across mammals, the effect of SNPs on regulatory motifs, and the effect of SNPs on expression from eQTL studies. HaploReg is designed for researchers developing mechanistic hypotheses of the impact of non-coding variants on clinical phenotypes and normal variation.  
 
