@@ -2,7 +2,9 @@
 
 README.md  
 
-# 1. First, create a new repo for a GitHub page with
+# Background
+
+# Process
 
 ## SanGiovanni Lab
 
