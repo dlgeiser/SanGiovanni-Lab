@@ -26,6 +26,11 @@ NCATS Inxight: Drugs incorporates and unifies a wealth of data, including manual
 <b><a href="http://locuszoom.org/" target="_blank">LocusZoom</a></b>  
 LocusZoom is a suite of tools to provide fast visualization of GWAS results for research and publication.  
 
+<b><a href="https://www.opentargets.org/" target="_blank">Open Targets</a></b>  
+Open Targets is an innovative, large-scale, multi-year, public-private partnership that uses human genetics and genomics data for systematic drug target identification and prioritisation.  
+
+Visit the Open Targets Platform which integrates public domain data to enable target identification and prioritisation, or the Open Targets Genetics Portal which identifies targets based on GWAS and functional genomics.  
+
 <b><a href="http://big.stats.ox.ac.uk/" target="_blank">Oxford BIG</a></b>  
 The primary aim of the browser is to support interpretation of Genome Wide Association Studies (GWAS) results for Brain Imaging phenotypes and possible links to GWAS of other non-brain imaging phenotypes. The browser is built on top of data from several sources.  
 
