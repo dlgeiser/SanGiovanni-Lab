@@ -2,6 +2,9 @@
 
 Descriptions and links to our preferred resources:
 
+<b><a href="http://amigo.geneontology.org/amigo/" target="_blank">AmiGO 2</a></b>  
+AmiGO 2 is a project to create the next generation of AmiGO--the current official web-based set of tools for searching and browsing the Gene Ontology database.  
+
 <b><a href="https://www.biorxiv.org/" target="_blank">bioRxiv</a></b>  
 bioRxiv (pronounced "bio-archive") is a free online archive and distribution service for unpublished preprints in the life sciences. It is operated by Cold Spring Harbor Laboratory, a not-for-profit research and educational institution. By posting preprints on bioRxiv, authors are able to make their findings immediately available to the scientific community and receive feedback on draft manuscripts before they are submitted to journals.  
 
@@ -25,6 +28,9 @@ NCATS Inxight: Drugs incorporates and unifies a wealth of data, including manual
 
 <b><a href="http://locuszoom.org/" target="_blank">LocusZoom</a></b>  
 LocusZoom is a suite of tools to provide fast visualization of GWAS results for research and publication.  
+
+<b><a href="https://www.ncbi.nlm.nih.gov/" target="_blank">NCBI</a></b>  
+The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.  
 
 <b><a href="https://www.opentargets.org/" target="_blank">Open Targets</a></b>  
 Open Targets is an innovative, large-scale, multi-year, public-private partnership that uses human genetics and genomics data for systematic drug target identification and prioritisation.  
