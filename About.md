@@ -29,7 +29,7 @@
     </table>
 </middle>
 
-### [Home](https://dlgeiser.github.io/SanGiovanni-Lab) | [Research Mission](https://dlgeiser.github.io/SanGiovanni-Lab/Mission) | [Resources](https://dlgeiser.github.io/SanGiovanni-Lab/Resources)  
+### [Home](https://dlgeiser.github.io/SanGiovanni-Lab) | [Research Mission](https://dlgeiser.github.io/SanGiovanni-Lab/Mission) | [Resources](https://dlgeiser.github.io/SanGiovanni-Lab/Resources) | [COVID-19](https://dlgeiser.github.io/SanGiovanni-Lab/Reentry)  
 
 
 
