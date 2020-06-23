@@ -25,4 +25,4 @@ Employees, students, and visitors must use <b><a href="https://www.cdc.gov/coron
 <b>For cleaning and disinfection:</b>  
 Researchers will follow established <b><a href="https://www.cdc.gov/coronavirus/2019-ncov/community/disinfecting-building-facility.html" target="_blank">cleaning and disinfection</a></b> routines for all research spaces and environments.  
 
-### [Home](https://dlgeiser.github.io/SanGiovanni-Lab) | [About Us](https://dlgeiser.github.io/SanGiovanni-Lab/About) | [Research Mission](https://dlgeiser.github.io/SanGiovanni-Lab/Mission) | [Resources](
+### [Home](https://dlgeiser.github.io/SanGiovanni-Lab) | [About Us](https://dlgeiser.github.io/SanGiovanni-Lab/About) | [Research Mission](https://dlgeiser.github.io/SanGiovanni-Lab/Mission) | [Resources](https://dlgeiser.github.io/SanGiovanni-Lab/Resources)
