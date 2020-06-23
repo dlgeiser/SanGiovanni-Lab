@@ -14,6 +14,6 @@ We are excited that you have chosen us and we look forward to collaborating with
 
 Let the science begin!
 
-### [About Us](https://dlgeiser.github.io/SanGiovanni-Lab/About) | [Research Mission](https://dlgeiser.github.io/SanGiovanni-Lab/Mission) | [Resources](https://dlgeiser.github.io/SanGiovanni-Lab/Resources)  
+### [About Us](https://dlgeiser.github.io/SanGiovanni-Lab/About) | [Research Mission](https://dlgeiser.github.io/SanGiovanni-Lab/Mission) | [Resources](https://dlgeiser.github.io/SanGiovanni-Lab/Resources) | [COVID-19](https://dlgeiser.github.io/SanGiovanni-Lab/Reentry)  
 
 
