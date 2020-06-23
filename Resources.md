@@ -49,6 +49,6 @@ Pharos is the user interface to the Knowledge Management Center (KMC) for the Il
 The Pharos interface provides facile access to all data types collected by the KMC. Given the complexity of the data surrounding any target, efficient and intuitive visualization has been a high priority, to enable users to quickly navigate & summarize search results and rapidly identify patterns. A critical feature of the interface is the ability to perform flexible search and subsequent drill down of search results. Underlying the interface is a RESTful API that provides programmatic access to all KMC data, allowing for easy consumption in user applications.  
 
 <a title="Jynto / CC0" href="https://commons.wikimedia.org/wiki/File:Zeaxanthin_molecule_spacefill.png"><img width="256" alt="Zeaxanthin molecule spacefill" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Zeaxanthin_molecule_spacefill.png/128px-Zeaxanthin_molecule_spacefill.png" align="right"></a>  
-### [Home](https://dlgeiser.github.io/SanGiovanni-Lab) | [About Us](https://dlgeiser.github.io/SanGiovanni-Lab/About) | [Research Mission](https://dlgeiser.github.io/SanGiovanni-Lab/Mission)  
+### [Home](https://dlgeiser.github.io/SanGiovanni-Lab) | [About Us](https://dlgeiser.github.io/SanGiovanni-Lab/About) | [Research Mission](https://dlgeiser.github.io/SanGiovanni-Lab/Mission) | [COVID-19](https://dlgeiser.github.io/SanGiovanni-Lab/Reentry)  
 
 
